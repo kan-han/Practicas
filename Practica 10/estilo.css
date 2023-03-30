@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+    padding: 0pxf;
+}
+
+h1{
+    font-size: 10em;
+}
+
+#description{
+    background-color: blue;
+}
+#menu{
+    float: none;
+    width: auto;
+}
+#opciones{
+    margin: 0%;
+    padding: 0%;
+}
+.opcionmenu{
+    background-color: pink;
+    border: 1% solid black;
+    list-style-type: none;
+    margin: 10%;
+    padding: 10%;
+}
+
+@media screen and (min-width:480%) {
+    #meni{
+        width: 200px:float:left;
+    }
+}
+    

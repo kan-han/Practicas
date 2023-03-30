@@ -1,0 +1,58 @@
+p{  /*para darle fomrato a la letra "p" */
+    font-size: 40px;
+    background-color: brown;
+}
+
+img {
+    width:500px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+#h1{
+    font-family: Arial, sans-serif;
+
+}
+#h2{
+    text-align: center;
+    font-size: 100%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifsans-serif; /*Tipo de letra*/
+}
+
+/* Un ejemplo
+
+cuando tienen un "#" es solamente para ese mismo ID
+
+#h2{      
+    text-align: center;
+    font-size: 100%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifsans-serif; 
+}
+
+cuando tiene un "." es nada mas para cambiar el estilo en general:
+
+.h2{
+    text-align: center;
+    font-size: 100%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifsans-serif; 
+}
+
+*/
+
+.tipodeletra{
+
+    border: 10px solid pink; /*Para los bordes*/
+}
+
+.lassombras {
+
+    font-size: 150px;
+    text-shadow: 2px 9px 8px rgb(135, 65, 65);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifsans-serif; /*Tipo de letra*/
+
+}
+
+body {
+     background-color: #f3ff9c;
+}
